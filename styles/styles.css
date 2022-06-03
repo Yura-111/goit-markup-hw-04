@@ -27,7 +27,6 @@
 
 .main-nav {
     display: flex;
-    
 }
 
 .sit-nav {
@@ -35,10 +34,8 @@
     align-items: center;
 }
 
-
-
-
 /* logo */
+
 .logo-link {
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
@@ -63,7 +60,6 @@
 .skills {
     padding-bottom: 94px;
     padding-top: 94px;
-    
 }
 
 .visually-hidden {
@@ -90,7 +86,6 @@
     line-height: 1.14;
     letter-spacing: 0.02em;
     color: #212121;
-    /* display: block; */
 }
 
 .nav a {
@@ -130,6 +125,7 @@
 
 
 /* header-address */
+
 .mail {
     color: #757575;
     text-decoration: none;
@@ -174,6 +170,7 @@
 
 
 /* Hero */
+
 .hero {
     text-align: center;
     margin-top: 0;
@@ -192,7 +189,6 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size:cover;
-
 }
 
 .head {
@@ -207,7 +203,6 @@
     letter-spacing: 0.06em;
     text-transform: uppercase;
     color: #FFFFFF;
-
 }
 
 .btn-primary {
@@ -259,8 +254,8 @@
 }
 
 .features-size {
-width: 270px;
-margin-right: 30px;
+    width: 270px;
+    margin-right: 30px;
 }
 
 .features-size:nth-child(4n) {
@@ -499,6 +494,7 @@ margin-right: 30px;
 
 
 /* address */
+
 .address-footer {
     margin-top: 20px;
     font-style: normal;
@@ -568,6 +564,7 @@ margin-right: 30px;
 /* css for portfiolio */
 
 /* buttons */
+
 .btn {
     background: #F5F4FA;
     border-radius: 4px;
@@ -619,6 +616,8 @@ margin-right: 30px;
     border-radius: 4px;
     color: var(--accent-color);
 }
+
+
 /* sample */
 
 .sample-head {
